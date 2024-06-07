@@ -11,7 +11,7 @@ to know more. ~~The repo is currently WIP.~~
 > **Latest Updates**: Highlight recent milestones within the Event\
 > **Event  Roadmap**: write a  brife about the event Roadmap
 
-## Acknowledgements
+## Credits
 
 Content based on text from the [Launchpad Kerala
 Website](https://www.launchpadkerala.org). Stylesheet based on
